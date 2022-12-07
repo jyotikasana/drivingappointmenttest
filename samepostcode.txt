@@ -1,0 +1,3 @@
+Given there is an appointment for postcode xxxx
+When new user tries to book appointment for same postcode on same day
+then appointment should be confirmed with available slot
